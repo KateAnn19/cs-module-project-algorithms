@@ -14,3 +14,11 @@ if __name__ == '__main__':
     k = 3
 
     print(f"Output of sliding_window_max function is: {sliding_window_max(arr, k)}")
+
+
+# understand the problem
+    # a list of integers
+    # a number which is the size of the sliding window
+
+    # output
+        # list of integers that fit within the sliding window 
